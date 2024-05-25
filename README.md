@@ -21,11 +21,11 @@ The project involves exploratory data analysis (EDA) of the heart dataset to unc
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/data-visualizatio/heart-data-visualization.git
+git clone https://github.com/data-visualizatio/Data-visualization-.git
 
 2. Navigate to the project directory:
 
-cd heart-data-visualization
+cd data-visualization-
 
 3. Install the required Python libraries using pip:
 pip install -r requirements.txt
@@ -35,7 +35,7 @@ Begin the usage of tne progam by:
 
 1. Start Jupyter Notebook:
 
-jupyter notebook medical_analysis.ipynb
+jupyter notebook  heart-data-visualization.ipynb
 
 2. Open the Jupyter Notebook file heart-data-visualization.ipynb in your browser.
 
