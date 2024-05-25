@@ -35,9 +35,9 @@ Begin the usage of tne progam by:
 
 1. Start Jupyter Notebook:
 
-jupyter notebook  heart-data-visualization.ipynb
+jupyter notebook  Data_visualization_code.ipynb
 
-2. Open the Jupyter Notebook file heart-data-visualization.ipynb in your browser.
+2. Open the Jupyter Notebook file Data_visualization_code.ipynb in your browser.
 
 3. Follow the instructions and code cells within the notebook to perform data analysis and visualize the medical dataset.
 
